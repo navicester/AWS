@@ -81,7 +81,20 @@
 - ARVR
 
 
-Example Spotify
+Web Application
 
-![image](https://user-images.githubusercontent.com/16224205/164140971-6bb04fd7-3b51-4dee-9c58-0bf95d6ba084.png)
+EC2 - Elastic Cloud Compute
+
+used for provisioning the computational power needed for this application
+
+S3 - Simple Storage Service
+
+CloudWatch 
+- monitor the applicaton and environment
+- provides trigger for scaling in and scaling out infrastructure 
+
+Route 53 
+- DNS
+- register the domain name for our web application
+
 
